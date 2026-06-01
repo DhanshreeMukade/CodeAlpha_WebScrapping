@@ -32,5 +32,7 @@ Export the dataset to CSV/Excel format.
 The final output contains:
 
 Quote Text
+
 Author Name
+
 Tags
