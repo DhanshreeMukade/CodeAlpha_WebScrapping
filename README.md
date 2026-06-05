@@ -1,4 +1,4 @@
-# CodeAlpha_WebScrapping
+# CodeAlpha_WebScrapping_Task1
 **Quotes Web Scraping Project**
 **Overview**
 
